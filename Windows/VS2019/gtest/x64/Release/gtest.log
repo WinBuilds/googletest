@@ -1,0 +1,28 @@
+﻿  gtest-all.cc
+  gtest.vcxproj -> D:\Projects\WinBuilds\googletest\Windows\VS2019\x64\Release\gtest.lib
+  copying include header files...
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\gtest-assertion-result.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\gtest-death-test.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\gtest-matchers.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\gtest-message.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\gtest-param-test.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\gtest-printers.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\gtest-spi.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\gtest-test-part.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\gtest-typed-test.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\gtest.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\gtest_pred_impl.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\gtest_prod.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\internal\gtest-death-test-internal.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\internal\gtest-filepath.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\internal\gtest-internal.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\internal\gtest-param-util.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\internal\gtest-port-arch.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\internal\gtest-port.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\internal\gtest-string.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\internal\gtest-type-util.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\internal\custom\gtest-port.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\internal\custom\gtest-printers.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\internal\custom\gtest.h
+  D:\Projects\WinBuilds\googletest\Windows\VS2019\..\..\googletest\include\gtest\internal\custom\README.md
+  24 File(s) copied

@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Projects/WinBuilds/googletest/googlemock/CMakeLists.txt
+  gtest-all.cc
+  gmock-all.cc
+  gmock_main.cc
+  Generating Code...
+  gmock_main.vcxproj -> D:\Projects\WinBuilds\googletest\build_msvc16_win64\lib\Debug\gmock_main.lib

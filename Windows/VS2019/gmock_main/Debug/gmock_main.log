@@ -1,0 +1,5 @@
+﻿  gmock-all.cc
+  gmock_main.cc
+  gtest-all.cc
+  Generating Code...
+  gmock_main.vcxproj -> D:\Projects\WinBuilds\googletest\Windows\VS2019\Debug\gmock_main.lib

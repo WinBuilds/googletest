@@ -1,3 +1,9 @@
+*.url
+*.obj
+*.log
+*.tlog
+*.recipe
+
 # Ignore CI build directory
 build/
 xcuserdata
@@ -23,6 +29,10 @@ Win32-Debug/
 Win32-Release/
 x64-Debug/
 x64-Release/
+Debug/
+Release/
+DebugMT/
+ReleaseMT/
 
 # Ignore autoconf / automake files
 Makefile.in
